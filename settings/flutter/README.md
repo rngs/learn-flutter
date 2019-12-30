@@ -104,3 +104,10 @@ Doctor summary (to see all details, run flutter doctor -v):
 • No issues found!
 ```
 
+### アプリ実行
+
+``
+$ flutter create app
+$ cd app
+$ flutter run
+```
